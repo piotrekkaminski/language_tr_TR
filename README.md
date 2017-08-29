@@ -3,8 +3,8 @@ This is a Language Pack generated from the [official Magento2 translations proje
 The Turkish (Türkçe) translations used can be found [here](https://crowdin.com/project/magento-2/tr).
 
 # Version & progress
-This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/tr#/Head) at Crowdin and based on the Magento Head sourcefiles.
-There have been  12592 strings translated of the 12595 strings in the Magento source.
+This translation is generated from the branch [2.1.5](https://crowdin.com/project/magento-2/tr#/2.1.5) at Crowdin and based on the Magento 2.1.5 sourcefiles.
+There have been  12143 strings translated of the 12146 strings in the Magento source.
 
 Translation progress:![Progress](http://progressed.io/bar/100)
 
