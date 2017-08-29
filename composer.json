@@ -1,9 +1,9 @@
 {
-    "name": "magento2translations/language_tr_tr",
+    "name": "piotrekkaminski/language_tr_tr",
     "description": "Turkish (Türkçe) Magento2 Language Pack (tr_TR) - Crowdsourced",
     "homepage": "http://magento2translations.github.io/",
     "license": [
-        "OSL-3.0",
+        "OSL-3.0"
     ],
     "authors": [
         {
